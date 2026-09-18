@@ -6,8 +6,8 @@ Contexto e Objetivos:
 
 O Tópico de um dos capitulos do curso Santander 2026 - Automação com N8N pela plataforma DIO , foi o notebook LM. 
 Foi proposto um projeto de criação de um notebook LM e o assunto escolhido para a criação do NotebookLm foi o próprio assunto alvo do curso , ou seja, o N8N.
-Utilizei como fonte a próprio material disponibilizado no site do N8N , o N8N Academy. Também foi sugerido pelo NotebookLm outras fontes confiaveis e elas foram adiionadas ao caderno.
-A escolha destas fontes garante assertividade e que apenas o conteudo oficial seja disponibilizado ao pesquisar sobre o assunto.
+Utilizei como fonte o material disponibilizado no site do N8N , o N8N Academy. Também foi sugerido pelo NotebookLm outras fontes confiaveis e elas foram adicionadas ao caderno.
+A escolha destas fontes garante assertividade e que apenas o conteúdo oficial seja disponibilizado ao pesquisar sobre o assunto.
 
 # Curadoria de Fontes: 
 
@@ -20,7 +20,7 @@ https://docs.n8n.io/
 
 # Engenharia de Prompts / testes de prompt :
 
-Na area de chat , foi solicitado ,por exemplo, os conceitos fundamentais para criar fluxos de automação no n8n.
+No chat foi solicitado os conceitos fundamentais para criar fluxos de automação no n8n.
 A resposta foi a seguinte :
 
 "Com base nos tópicos dos cursos oficiais disponibilizados em suas fontes, os módulos e temas centrais para a criação e estruturação de fluxos no n8n incluem:
@@ -41,7 +41,7 @@ Manipulação de Arquivos (Handling files): Processamento de arquivos e anexos n
 As suas fontes listam a grade curricular e os módulos do n8n Academy e dos cursos avançados da comunidade
 , mas não contêm as definições detalhadas ou tutoriais passo a passo de cada conceito (como funcionamento de triggers, sintaxe de expressões JSON ou credenciais)."
 
-# A IA solicitou uma pesquisa na web para inserir as informações do passo a passo de cada conceito conforme informou , eu autorizei a pesquisa na web e a pesquisa seguiu DENTRO DA DOCUMENTAÇÃO OFICAL DO N8N , conforme o critério que utilizei.
+# A IA solicitou uma pesquisa na web para inserir as informações do passo a passo de cada conceito, eu autorizei a pesquisa na web e esta seguiu DENTRO DA DOCUMENTAÇÃO OFICAL DO N8N , conforme o critério utilizado.
 
 "Realizei a pesquisa na documentação oficial e em guias técnicos da comunidade sobre os conceitos fundamentais do n8n.
 De acordo com a documentação oficial do n8n e guias do DEV Community, o n8n é uma ferramenta visual de automação de fluxos (low-code/no-code) estruturada em três pilares principais: Workflows (Fluxos), Triggers (Gatilhos) e Nodes (Nós), pelos quais as informações trafegam estruturadas em formato JSON.
