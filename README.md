@@ -5,7 +5,7 @@ Repositório criado para entrega do projeto do curso Santander N8N na plataforma
 Contexto e Objetivos: 
 
 O Tópico de um dos capitulos do curso Santander 2026 - Automação com N8N pela plataforma DIO , foi o notebook LM. 
-Foi proposto um projeto de criação de um notebook LM e o assunto escolhido para a criação do NotebookLm foi o próprio assunto alvo do curso , ou seja, o N8N.
+Foi proposto um projeto de criação de um Notebook LM e o tema escolhido para a criação do Notebook foi o próprio assunto alvo do curso , ou seja, o N8N.
 Utilizei como fonte o material disponibilizado no site do N8N , o N8N Academy. Também foi sugerido pelo NotebookLm outras fontes confiaveis e elas foram adicionadas ao caderno.
 A escolha destas fontes garante assertividade e que apenas o conteúdo oficial seja disponibilizado ao pesquisar sobre o assunto.
 
@@ -41,7 +41,7 @@ Manipulação de Arquivos (Handling files): Processamento de arquivos e anexos n
 As suas fontes listam a grade curricular e os módulos do n8n Academy e dos cursos avançados da comunidade
 , mas não contêm as definições detalhadas ou tutoriais passo a passo de cada conceito (como funcionamento de triggers, sintaxe de expressões JSON ou credenciais)."
 
-# A IA solicitou uma pesquisa na web para inserir as informações do passo a passo de cada conceito, eu autorizei a pesquisa na web e esta seguiu DENTRO DA DOCUMENTAÇÃO OFICAL DO N8N , conforme o critério utilizado.
+A IA solicitou uma pesquisa na web para inserir as informações do passo a passo de cada conceito, eu autorizei a pesquisa na web e esta seguiu DENTRO DA DOCUMENTAÇÃO OFICAL DO N8N , conforme o critério utilizado.
 
 "Realizei a pesquisa na documentação oficial e em guias técnicos da comunidade sobre os conceitos fundamentais do n8n.
 De acordo com a documentação oficial do n8n e guias do DEV Community, o n8n é uma ferramenta visual de automação de fluxos (low-code/no-code) estruturada em três pilares principais: Workflows (Fluxos), Triggers (Gatilhos) e Nodes (Nós), pelos quais as informações trafegam estruturadas em formato JSON.
