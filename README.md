@@ -1,9 +1,11 @@
-# DIO-N8N
+# DIO- Santander 2026 - Automação com N8N
+
 Repositório criado para entrega do projeto do curso Santander N8N na plataforma DIO . 
 
 Contexto e Objetivos: 
 
-O assunto escolhido para a criação do NotebookLm foi o próprio assunto alvo do curso , ou seja, o N8N.
+O Tópico de um dos capitulos do curso Santander 2026 - Automação com N8N pela plataforma DIO , foi o notebook LM. 
+Foi proposto um projeto de criação de um notebook LM e o assunto escolhido para a criação do NotebookLm foi o próprio assunto alvo do curso , ou seja, o N8N.
 Utilizei como fonte a próprio material disponibilizado no site do N8N , o N8N Academy. Também foi sugerido pelo NotebookLm outras fontes confiaveis e elas foram adiionadas ao caderno.
 A escolha destas fontes garante assertividade e que apenas o conteudo oficial seja disponibilizado ao pesquisar sobre o assunto.
 
